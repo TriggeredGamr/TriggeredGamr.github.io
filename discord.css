@@ -481,7 +481,7 @@ html .tabBadge-3smxHS,.wrapper-232cHJ {
 .bda-slist .bda-header {font-size:14px}
 #bd-settingspane-container .bda-slist li {background-color: rgba(0, 0, 0, 0.3);color: #fff;border-color: var(--accent)}
 #bd-settingspane-container .bda-slist .bda-description{color:#ddd}
-
+#bd-settingspane-container .bda-slist li[data-name="fdafds"] {background:rgba(255, 255, 0, 0.2)}
 #app-mount #bd-settingspane-container .ui-switch-item .style-description,
 #app-mount #bd-settingspane-container .ui-switch-item h3 {color:rgba(255, 255, 255, 0.9)}
 .accountList-33MS45 .accountBtnInner-sj5jLs {background-color: rgba(0, 0, 0, 0.3);border-color: var(--accent)}
